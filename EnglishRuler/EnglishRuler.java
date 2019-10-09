@@ -1,7 +1,7 @@
 package EnglishRuler;
 //AF
 /*
-Programs draws vertical linear using recursion
+Program draws vertical linear using recursion
 Main parameters: length of ruler and number of nesting levels
  */
 
